@@ -4,7 +4,7 @@ I am a software developer and architect located near Cologne, Germany. I love to
 
 I work as Director Cloud & Mobile Software at [Testo](https://www.testo.com/). In my past I have been working in smaller and bigger organizations. I have created and shaped a scaled software development department, where teams love to work and are striving for excellence. I consult StartUp companies in technology, strategy and business.
 
-This are my private repositories and all my projects are free to fork & use. 
+This are my private repositories and all my projects are free to fork & use. However, there is only an infrequent update to these repositories.
 
 ## Contact me
 
